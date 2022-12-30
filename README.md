@@ -1,3 +1,4 @@
+![logo](https://github.com/TechGiant3/TechGiant3/blob/main/pexels-tranmautritam-251225.jpg)
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
